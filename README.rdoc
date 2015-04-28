@@ -6,23 +6,23 @@ Web Application Architectures
 
 Learn how to build and deploy modern web application architectures – applications that run over the Internet, in the "cloud," using a browser as the user interface.
 
-Instructors
-Greg Heileman
-University of New Mexico
+<b>Instructors
+Greg Heileman,
+University of New Mexico</b>
 
 This course explores the development of web application architectures from an engineering perspective.  We will consider the fundamental design patterns and philosophies associated with modern web application architectures, along with their major components.  By the end of this course, I expect you to be able to:
 
-* Design, develop and deploy a modern web application.  This course is not about how to build a pretty web page, it's about how to build and deploy the full stack of protocols and technologies associated with a complete web app.  That said, it is not possible for you to become an expert in this area in a few weeks. My goal, rather, is to put you on the right path by providing a solid foundation and framework for understanding web applications, allowing you to dig deeper and learn more on your own. The next bullet points describe how we're going to do this.
+* <b>Design, develop and deploy a modern web application</b>.  This course is not about how to build a pretty web page, it's about how to build and deploy the full stack of protocols and technologies associated with a complete web app.  That said, it is not possible for you to become an expert in this area in a few weeks. My goal, rather, is to put you on the right path by providing a solid foundation and framework for understanding web applications, allowing you to dig deeper and learn more on your own. The next bullet points describe how we're going to do this.
 
-* Understand the major architectural components in web apps, and how they fit together.  Modern web apps are complex.  A typical application has a database along with numerous scripts on one end of the web stack, a web server in the middle that delivers information over the Internet, and a user's browser on the other end of the web stack.  Even getting started in trying to understand these components can be overwhelming. Consider just the programming languages involved in a typical web stack: from the database (SQL), to the web server (scripting language), to the browser (JavaScript, HTML, CSS), we're dealing with five different programming languages, not to mention the protocols they're operating over – and you need to know a little about them too! We'll introduce a number of software design patterns throughout the course that are aimed at helping you to manage this complexity.
+* <b>Understand the major architectural components in web apps</b>, and how they fit together.  Modern web apps are complex.  A typical application has a database along with numerous scripts on one end of the web stack, a web server in the middle that delivers information over the Internet, and a user's browser on the other end of the web stack.  Even getting started in trying to understand these components can be overwhelming. Consider just the programming languages involved in a typical web stack: from the database (SQL), to the web server (scripting language), to the browser (JavaScript, HTML, CSS), we're dealing with five different programming languages, not to mention the protocols they're operating over – and you need to know a little about them too! We'll introduce a number of software design patterns throughout the course that are aimed at helping you to manage this complexity.
 
-* Use Ruby on Rails.  We're going to learn about web apps through the Ruby on Rails framework.  Rails is a framework for creating web applications that is built on top of the Ruby programming language. I believe this is one of the best frameworks for learning about web applications, and it's also proving highly successful as a platform for commercial offerings.  That said, there are many other frameworks available, and the concepts you will learn using Rails are transferable to these other frameworks.
+* <b>Use Ruby on Rails.</b>  We're going to learn about web apps through the Ruby on Rails framework.  Rails is a framework for creating web applications that is built on top of the Ruby programming language. I believe this is one of the best frameworks for learning about web applications, and it's also proving highly successful as a platform for commercial offerings.  That said, there are many other frameworks available, and the concepts you will learn using Rails are transferable to these other frameworks.
 
-* Better understand modern software engineering practice.  We’ll be using the latest tools and practices in software development, source code control, testing, and application deployment. This will include exposure to agile development practices, the numerous tools that software engineers are expected to know how to use, and the cloud-based resources that are becoming increasingly important in web applications.      
+* <b>Better understand modern software engineering practice.</b>  We’ll be using the latest tools and practices in software development, source code control, testing, and application deployment. This will include exposure to agile development practices, the numerous tools that software engineers are expected to know how to use, and the cloud-based resources that are becoming increasingly important in web applications.      
 
-Course Syllabus
+== Course Syllabus
 
-Week One, March 16-21 — Module 1: Introduction and Background
+<b>Week One, March 16-21 — Module 1: Introduction and Background</B>
 
 Lecture 1: Historical Perspective
 
@@ -40,7 +40,7 @@ Homework: Quiz 2, Lectures 3-4, due March 22.
 
 
 
-Week Two, March 22-28 — Module 2: Ruby on Rails
+<b>Week Two, March 22-28 — Module 2: Ruby on Rails</b>
 
 Lecture 1: Rails Overview
 
@@ -64,7 +64,7 @@ Homework: Programming Assignment 1, March 29.
 
 
 
-Week Three, March 29-April 4 — Module 3: Database Interactions
+<b>Week Three, March 29-April 4 — Module 3: Database Interactions</b>
 
 Lecture 1: Relational Databases
 
@@ -84,7 +84,7 @@ Homework: Programming Assignment 2, due April 5.
 
 
 
-Week Four, April 5-April 11 — Module 4: The Ruby Programming Language
+<b>Week Four, April 5-April 11 — Module 4: The Ruby Programming Language</b>
 
 Lecture 1: Ruby Background
 
@@ -106,7 +106,7 @@ Homework: Quiz 10, Lectures 5-6, due April 12.
 
 
 
-Week Five, April 12-18 — Module 5: Middleware
+<b>Week Five, April 12-18 — Module 5: Middleware</b>
 
 Lecture 1: What is Middleware?
 
@@ -137,7 +137,7 @@ Homework: Programming Assignment 3, due April 19.
 
 
 
-Week Six, April 19-26 — Module 6: Presentation/User Interface
+<b>Week Six, April 19-26 — Module 6: Presentation/User Interface</b>
 
 Lecture 1: Introduction and Background
 
