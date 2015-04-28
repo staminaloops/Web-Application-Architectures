@@ -79,8 +79,8 @@ Course Syllabus
 -Homework: Quiz 14, Lectures 7-8, due April 19.
 -Homework: Programming Assignment 3, due April 19.
 
--Week Six, April 19-26 — Module 6: Presentation/User Interface
--Lecture 1: Introduction and Background
+-Week Six, April 19-26 — Module 6: Presentation/User Interface 
+-Lecture 1: Introduction and Background 
 -Lecture 2: HTML — Basic Syntax
 -Lecture 3: HTML -- Document Structure
 -Lecture 4: HTML -- Forms
