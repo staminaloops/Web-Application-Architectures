@@ -1,0 +1,17 @@
+ <%= div_for comment do %> <!-- faz uma div com o seguinte conteúdo-->
+    <p>
+      <strong>Posted <%= time_ago_in_words(comment.created_at) %></strong> <br/> <!-- criado há-->
+      <%= h(comment.body) %> <!-- print body do post-->
+    </p>
+  <% end %>
+
+
+
+  <!--# <% @post.comments.each do |comment| %> para cada comment do referido post 
+    <%= div_for comment do %> faz uma div com o seguinte conteúdo
+    <p>
+      <strong>Posted <%= time_ago_in_words(comment.created_at) %></strong> <br/> criado há
+      <%= h(comment.body) %> print body do post
+    </p>
+  <% end %>
+<% end %> #-->
