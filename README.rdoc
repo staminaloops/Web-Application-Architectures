@@ -1,12 +1,12 @@
 == Web Application Architectures, University of New Mexico
 
-This repository is just the result of the Programming Assignments in the course.
+This repository is just the result of the Programming Assignments:
 
 Web Application Architectures
 
 Learn how to build and deploy modern web application architectures – applications that run over the Internet, in the "cloud," using a browser as the user interface.
 
-<b>Instructors
+<b>Instructor
 Greg Heileman,
 University of New Mexico</b>
 
