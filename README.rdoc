@@ -6,7 +6,7 @@ Web Application Architectures
 
 Learn how to build and deploy modern web application architectures – applications that run over the Internet, in the "cloud," using a browser as the user interface.
 
-<b>Instructor
+<b>Instructor: Professor
 Greg Heileman,
 University of New Mexico</b>
 
